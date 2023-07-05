@@ -10,8 +10,7 @@
     height: 50px;
     border-radius: 50%;
     border: none;
-    background-color: aqua;
-    cursor: pointer;
+    background-color: grey;
 }
 
 .video {
